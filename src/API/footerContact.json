@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "icon":"MdPlace",
+        "title":"Find us",
+        "details":"Surat, Gujrat"
+    },
+    {
+        "id":2,
+        "icon":"IoCallSharp",
+        "title":"Call us",
+        "details":"9876543467"
+    },
+    {
+        "id":3,
+        "icon":"TbMailPlus",
+        "title":"Mail us",
+        "details":"heer@art.com"
+    },
+    {
+        "id":3,
+        "icon":"TbMailPlus",
+        "title":"Mail us",
+        "details":"heer@art.com"
+    }
+]
