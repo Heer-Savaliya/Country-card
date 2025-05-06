@@ -33,7 +33,11 @@ Welcome to **Heer Country Explorer**, a fast and modern React app where users ca
 
 ## 📦 Installation & Setup
 
+### 3. Start the development server  
+```bash
+npm start
+
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/react-country-explorer.git
-cd react-country-explorer
+  git clone https://github.com/your-username/react-country-explorer.git
+  cd react-country-explorer
